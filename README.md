@@ -1,5 +1,3 @@
-#Portfolio
-
 ## About Me
 I am currently a second year Computer Science student studing a BSc degree, with a keen interest in software development and software testing. I currently do voluntary software testing work for Noxcrew, which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create such content within the video game Minecraft. I have mostly written code in the languages Java and Kotlin, along with various smaller university and school projects which were written in Python. 
 
