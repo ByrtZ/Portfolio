@@ -7,7 +7,7 @@ I am currently a second year Computer Science student studing a BSc degree, with
 ### Projects
 - Cheese Hunt: A small, fun Minecraft minigame server plugin written in Kotlin utilising libraries provided by Paper, Adventure and Incendo. TODO: Link
 - Planet Game: A group university project, that is a touch screen minigame written in Java using Android Studio. TODO: Link
-- TBDUtils: A utility plugin created as a duo project, that contains moderation utilities and various other custom game improvements written in Kotlin for a Minecraft survival multiplayer server. TODO: Link
+- TBDUtils: A utility plugin created as a duo project, that contains moderation utilities and various other custom game improvements written in Kotlin for a Minecraft survival multiplayer server. [Link](https://github.com/Hoi15A/TBDUtils)
 - Training: A small plugin that assists in some minigame functionality for a fun and friendly training server provided to MC Championship Testers. TODO: Link
 
 
