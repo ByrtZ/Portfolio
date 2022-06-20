@@ -1,13 +1,13 @@
 # Welcome to my Portfolio!
 
 ## About Me
-I am currently a second year university student studying a Computer Science BSc degree, with a keen interest in software development and software testing. I currently do voluntary software testing work for Noxcrew, which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create fun, custom coded content within Minecraft. I have a great passion for Minecraft and all the possibilities you can create within it. I have mostly written code in Java and Kotlin, along with various smaller university and school projects which were written in Python. 
+I am currently a second year university student studying a Computer Science BSc degree, with an interest in software development and software testing. I currently do voluntary software testing work for Noxcrew, which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create fun, custom coded content within Minecraft. I have a great passion for Minecraft and all the possibilities you can create within it. I have mostly written code in Java and Kotlin, along with various smaller university and school projects which were written in Python. 
 
 ### Projects
-- Cheese Hunt: A small, fun Minecraft minigame server plugin written in Kotlin utilising libraries provided by Paper, Adventure and Incendo. Available to view on request: [Cheese Hunt GitHub Repository](https://github.com/ByrtZ/CheeseHunt)
+- Cheese Hunt: A small, fun Minecraft minigame server plugin written in Kotlin utilising libraries provided by Paper, Adventure and Incendo. [Cheese Hunt GitHub Repository](https://github.com/ByrtZ/CheeseHunt)
 - Planet Game: A group university project, that is a touch screen minigame written in Java using Android Studio. [Planet Game GitHub Repository](https://github.com/ByrtZ/CIS2162-PlanetGame)
 - TBDUtils: A utility plugin created as a duo project, that contains moderation utilities and various other custom game improvements written in Kotlin for a Minecraft survival multiplayer server. [TBDUtils GitHub Repository](https://github.com/Hoi15A/TBDUtils)
-- Training: A small plugin that assists in some minigame functionality for a fun and friendly training server provided to MC Championship Testers. The Training GitHub Repository is unavailable as of you reading this, sorry!
+- Training: A small plugin that assists in some minigame functionality for a fun and friendly training server provided to MC Championship Testers. [Training GitHub Repository](https://github.com/ByrtZ/Training)
 
 
 ### Contact Information
