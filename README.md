@@ -1,7 +1,7 @@
 # Welcome to my Portfolio!
 
 ## About Me
-I am currently a second year university student studying a Computer Science BSc degree, with an interest in software development and software testing. I currently do voluntary software testing work for Noxcrew, which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create fun, custom coded content within Minecraft. I have a great passion for Minecraft and all the possibilities you can create within it. I have mostly written code in Java and Kotlin, along with various smaller university and school projects which were written in Python. 
+I am currently a third year university student studying a Computer Science BSc degree, with an interest in software development and software testing. I currently do voluntary software testing work for Noxcrew, which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create fun, custom coded content within Minecraft. I have a great passion for Minecraft and all the possibilities you can create within it. I have mostly written code in Java and Kotlin, along with various smaller university and school projects which were written in Python. 
 
 ### Projects
 - Cheese Hunt: A small, fun Minecraft minigame server plugin written in Kotlin utilising libraries provided by Paper, Adventure and Incendo. Available on request: [Cheese Hunt GitHub Repository](https://github.com/ByrtZ/CheeseHunt)
