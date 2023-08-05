@@ -16,6 +16,6 @@ I currently do voluntary software testing work for Noxcrew, which is a company t
 
 ### Contact Information
 Please feel free to reach out to me!
-- Email: **taylor.byrne417@gmail.com**
+- Email: **tb@byrt.dev**
 - Discord: **Byrt#6071**
 - GitHub: **ByrtZ**
