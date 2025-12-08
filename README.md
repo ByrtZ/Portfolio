@@ -7,6 +7,7 @@ I currently do voluntary software testing work for [Noxcrew](https://noxcrew.com
 
 ### Projects
 - **Burb**: A recreation of Plants vs Zombies: Garden Warfare's Suburbination mode. This is my current most active project, which began my use of asynchronous methods and more advanced technology compared to that of previous projects. Written in Kotlin, utililsing libraries provided by Paper, Adventure, Incendo and Bukkit. Available at: [Burb GitHub Repository](https://github.com/ByrtZ/Burb). This project is also accompanied by a custom resource pack. Available at: [Burb Resource Pack](https://github.com/ByrtZ/BurbResourcePack).
+- **TBD SMP: Season 4**: A utility plugin created as a community project, that contains custom survival-friendly mechanics, utilities and various other custom game improvements written in Kotlin for a Minecraft survival multiplayer server. This plugin is more advanced and contains more features than its predecessor, TBDUtils. [TBD SMP: Season 4 GitHub Repository](https://github.com/Hoi15A/TBD-Season-4).
 - **Meltdown**: A recreation of MC Championship's minigame, Meltdown. As someone who loves this minigame in the MC Championship event, I wanted to test my abilities and as such this project became my biggest, most advanced Minecraft plugin yet. Written in Kotlin utilising libraries provided by Paper, Adventure, Incendo and Bukkit. Available at: [Meltdown GitHub Repository](https://github.com/ByrtZ/Meltdown).
 - **Cheese Hunt**: A unique, fun Minecraft minigame plugin. This project has multiple iterations that are each different game design concepts. Written in Kotlin utilising libraries provided by Paper, Adventure, Incendo and Bukkit. Available at: [Cheese Hunt GitHub Repository](https://github.com/ByrtZ/CheeseHunt).
 - **Turf Wars**: My own take of the popular Mineplex minecraft server minigame, turf wars. Written in Kotlin utilising libraries provided by Paper, Adventure, Incendo and Bukkit. Repository currently unavailable: [Turf Wars GitHub Repository](https://github.com/ByrtZ/TurfWars).
@@ -19,5 +20,5 @@ I currently do voluntary software testing work for [Noxcrew](https://noxcrew.com
 ### Contact Information
 Please feel free to reach out to me!
 - Email: **tb@byrt.dev**
-- Discord: **Byrt#6071**
-- GitHub: **ByrtZ**
+- Discord: **byrtrum**
+- GitHub: **[ByrtZ](https://github.com/ByrtZ)**
