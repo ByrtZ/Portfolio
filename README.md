@@ -1,11 +1,7 @@
-# Welcome to my Portfolio!
+# Hello World, welcome to my Portfolio!
 
-## About Me
-Hello! My name is Taylor Byrne and I am a Computer Science (BSc) graduate who achieved a First class honours. I have a passion for software development, software testing and am consistently pushing myself to learn new techniques and adopt different methods of writing code. My ultimate goal is to become a software developer, within the gaming industry.
-
-I currently do voluntary software testing work for [Noxcrew](https://noxcrew.com), which is a company that creates professional content in the video game, Minecraft. I am also consistently pushing myself and learning about how to create fun, custom coded content within Minecraft. I have previously put my free time into a developer position that I had at [BlockWars](https://x.com/BlockWarsEvent), a popular Minecraft live event that content creators and event community take part in. I utilised Kotlin while working on BlockWars, as well as custom in-house tools and APIs. I have a great passion for coding and all the possibilities you can create with it. I am most proficient in Java, Kotlin and Python. I also have experience using Git, GitHub and GitLab version control as well as issue tracking software such as Jira.
-
-My current role as an Assistant manager in the hospitality industry has given me valuable skills and experience with people, business practices and for myself.
+Hi there! I'm Taylor, otherwise known as Byrt.
+Please see my projects and a little bit about me below.
 
 ### Projects
 - **Survival Games**: A true Minecraft classic minigame, modernised. This project is my favourite project to date in terms of technicality, as it utilises instancing for matches and more concise practices than  my previous works. Maps for games are highly customisable, as it is a data point system. Written in Kotlin, utililsing libraries provided by Paper, Adventure, Incendo, Noxcrew and Bukkit. Available at: [Survival Games Repository](https://github.com/ByrtZ/SurvivalGames). This project is also accompanied by a custom resource pack. Available at: [Survival Games Resource Pack](https://github.com/ByrtZ/SurvivalGamesResourcePack).
@@ -25,6 +21,16 @@ My current role as an Assistant manager in the hospitality industry has given me
 - **Planet Game**: A group university project, that is a touch screen minigame written in Java using Android Studio for the Employability module at Edge Hill University. [Planet Game GitHub Repository](https://github.com/ByrtZ/CIS2162-PlanetGame).
 
 - **TBDUtils**: A utility plugin created as a community project, that contains moderation utilities and various other custom game improvements written in Kotlin for a Minecraft survival multiplayer server. [TBDUtils Repository](https://github.com/Hoi15A/TBDUtils).
+
+
+## A bit more about Me
+- Computer Science (BSc) graduate (First class honours). 
+- Passion for software development, software testing and the games industry. 
+- Languages: [Kotlin](https://kotlinlang.org), [Java](https://www.oracle.com/uk/java/), [Python](https://www.python.org).
+- Tools/Platforms: [Git](https://git-scm.com), [GitHub](https://github.com), [Gradle](https://gradle.org) & [Paper](https://papermc.io).
+- Internal Tester for [Noxcrew](https://noxcrew.com), including [MC Championship Event](https://mcchampionship.com/event) and [MCC Island](https://mcchampionship.com/island) server.
+- Professional [Minecraft](https://minecraft.net) enjoyer.
+- Previously developer at [BlockWars](https://blockwars.games).
 
 
 ### Contact Information
